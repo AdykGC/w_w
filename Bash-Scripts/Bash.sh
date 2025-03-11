@@ -13,32 +13,18 @@ echo "$current_dir";
 echo "$parent_dir";
 
 
-<<<<<<< HEAD
-echo "\n\n"; echo "------------------------------------------------------------------------------------------------"
-echo "Запуск Bash-Git-Connect.sh..."; ./Bash-Scripts/Bash-Git-Connect.sh
-if [ $? -eq 0 ]; then echo "Bash-Git-Connect.sh выполнен успешно."
-else echo "Bash-Git-Connect.sh завершился с ошибкой."; exit 1; fi
-=======
 #    echo "\n\n"; echo "------------------------------------------------------------------------------------------------"
 #    echo "Запуск Bash-Git-Connect.sh..."; ./Bash-Scripts/Bash-Git-Connect.sh
 #    if [ $? -eq 0 ]; then echo "Bash-Git-Connect.sh выполнен успешно."
 #    else echo "Bash-Git-Connect.sh завершился с ошибкой."; exit 1; fi
->>>>>>> 351477d (1)
 
 echo "\n\n"; echo "------------------------------------------------------------------------------------------------"
 echo "Запуск Bash-Git-Add.sh..."; ./Bash-Scripts/Bash-Git-Add.sh
 if [ $? -eq 0 ]; then echo "Bash-Git-Add.sh выполнен успешно."
 else echo "Bash-Git-Add.sh завершился с ошибкой."; exit 1; fi
 
-<<<<<<< HEAD
-echo "\n\n"; echo "------------------------------------------------------------------------------------------------"
-echo "Запуск Bash-Git-Disconnect.sh..."; ./Bash-Scripts/Bash-Git-Disconnect.sh
-if [ $? -eq 0 ]; then echo "Bash-Git-Disconnect.sh выполнен успешно."
-else echo "Bash-Git-Disconnect.sh завершился с ошибкой."; exit 1; fi
-=======
 #    echo "\n\n"; echo "------------------------------------------------------------------------------------------------"
 #    echo "Запуск Bash-Git-Disconnect.sh..."; ./Bash-Scripts/Bash-Git-Disconnect.sh
 #    if [ $? -eq 0 ]; then echo "Bash-Git-Disconnect.sh выполнен успешно."
 #    else echo "Bash-Git-Disconnect.sh завершился с ошибкой."; exit 1; fi
->>>>>>> 351477d (1)
 
