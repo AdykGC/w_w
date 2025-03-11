@@ -9,6 +9,8 @@
 current_dir=$(pwd)
 parent_dir=$(dirname "$current_dir")
 
+clear
+
 echo "$current_dir";
 echo "$parent_dir";
 
