@@ -1,10 +1,12 @@
 #    chmod +x Bash-Scripts/Bash.sh
 #    chmod +x Bash-Scripts/Bash-Create-Must-Files.sh
+#    chmod +x Bash-Scripts/Bash-Fill-Must-Files.sh
 #    chmod +x Bash-Scripts/Bash-Git-Add.sh
 #    chmod +x Bash-Scripts/Bash-Git-Connect.sh
 #    chmod +x Bash-Scripts/Bash-Git-Disconnect.sh
 #    Bash-Scripts/Bash.sh
 #    Bash-Scripts/Bash-Create-Must-Files.sh
+#    Bash-Scripts/Bash-Fill-Must-Files.sh
 #    Bash-Scripts/Bash-Git-Add.sh
 #    Bash-Scripts/Bash-Git-Connect.sh
 #    Bash-Scripts/Bash-Git-Disconnect.sh
