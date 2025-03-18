@@ -19,11 +19,11 @@ File_GitIgnore="$Dir_Project/.gitignore"
 
 # Информация для .env файла
 Env_Info=(
-"Password_1:ADDADAD:"
-"Password_2:AD1241AD"
-"Password_3:ADDADAD2324"
-"Password_4:ADDADwwAsdsdD.asd"
-"Password_5:cdcdddfd"
+"PostgreSQL_DB_1_HOST=db"
+"PostgreSQL_DB_1_NAME=postgres"
+"PostgreSQL_DB_1_USER=postgres"
+"PostgreSQL_DB_1_PASSWORD=DDRM74df"
+"PostgreSQL_DB_1_PORT=5432"
 )
 
 # Информация для .gitignore файла
